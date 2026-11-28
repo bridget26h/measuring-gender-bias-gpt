@@ -241,6 +241,134 @@ def make_figure2a_boxplots():
     plt.close(fig)
     print("Figure 2a saved!")
 
+
+def make_figure2b_effects():
+    df = pd.read_csv(
+        RESULTS_DIR / "associative_priming_significance.csv"
+    )
+    metrics = [
+        "mean_male_proportion_change",
+        "tau_bls_change",
+        "tau_gsr_change",
+        "tau_difference_change"
+    ]
+    labels = [
+        "Mean male proportion",
+        "Employment alignment\n" + r"$\tau$ (BLS)",
+        "Stereotype alignment\n" + r"$\tau$ (GSR)",
+        "Relative alignment\n" + r"$\tau_{\mathrm{GSR}}-\tau_{\mathrm{BLS}}$"
+    ]
+
+    df = df.set_index("metric").loc[metrics].reset_index()
+    effects = df["effect"].to_numpy()
+    lower = df["ci_lower"].to_numpy()
+    upper = df["ci_upper"].to_numpy()
+
+    plt.rcParams.update({
+        "font.family": "sans-serif",
+        "font.size": 8,
+        "axes.labelsize": 8,
+        "xtick.labelsize": 7.5,
+        "ytick.labelsize": 7.5,
+        "pdf.fonttype": 42
+    })
+
+    fig, ax = plt.subplots(figsize=(3.5, 2.4))
+    significant_color = "#B23A48"
+    nonsignificant_color = "#356899"
+    positions = np.arange(len(metrics))
+
+    # plot effects and confidence intervals
+    for i in positions:
+        significant = df.loc[i, "p_adjusted"] < 0.05
+
+        color = (
+            significant_color
+            if significant
+            else nonsignificant_color
+        )
+
+        ax.errorbar(
+            effects[i],
+            i,
+            xerr=[
+                [effects[i] - lower[i]],
+                [upper[i] - effects[i]]
+            ],
+            fmt="o",
+            color=color,
+            ecolor=color,
+            markerfacecolor=color if significant else "white",
+            markeredgecolor=color,
+            markeredgewidth=0.9,
+            markersize=4,
+            elinewidth=0.9,
+            capsize=2.5,
+            capthick=0.7,
+            zorder=3
+        )
+
+    # reference line for zero change
+    ax.axvline(
+        0,
+        color="#999999",
+        linestyle=(0, (3, 3)),
+        linewidth=0.6,
+        alpha=0.8,
+        zorder=1
+    )
+
+    ax.set_yticks(positions)
+    ax.set_yticklabels(labels)
+    ax.set_ylim(3.5, -0.5)
+
+    limit = max(
+        0.105,
+        np.max(np.abs(lower)) * 1.1,
+        np.max(np.abs(upper)) * 1.1
+    )
+
+    ax.set_xlim(-limit, limit)
+    ax.set_xticks([-0.10, -0.05, 0, 0.05, 0.10])
+    ax.set_xlabel("Change from baseline", labelpad=5)
+    ax.grid(
+        axis="x",
+        color="#E5E5E5",
+        linewidth=0.4,
+        alpha=0.5
+    )
+
+    ax.set_axisbelow(True)
+
+    ax.spines["top"].set_visible(False)
+    ax.spines["right"].set_visible(False)
+    ax.spines["left"].set_visible(False)
+    ax.spines["bottom"].set_linewidth(0.6)
+
+    ax.tick_params(axis="y", length=0, pad=5)
+    ax.tick_params(axis="x", length=3, width=0.6)
+
+    fig.subplots_adjust(
+        left=0.35,
+        right=0.96,
+        top=0.96,
+        bottom=0.18
+    )
+
+    fig.savefig(
+        FIGURES_DIR / "figure2b_effects.pdf",
+        bbox_inches="tight"
+    )
+    fig.savefig(
+        FIGURES_DIR / "figure2b_effects.png",
+        dpi=800,
+        bbox_inches="tight"
+    )
+
+    plt.close(fig)
+    print("Figure 2b saved!")
+
 if __name__ == "__main__":
     make_figure1_heatmap()
     make_figure2a_boxplots()
+    make_figure2b_effects()
