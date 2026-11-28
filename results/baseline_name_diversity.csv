@@ -1,0 +1,3 @@
+condition,name_type,n_samples,n_unique,unique_ratio,most_common_name,most_common_count,most_common_proportion,shannon_entropy,simpson_diversity
+baseline,first_name,7950,62,0.00779874213836478,mara,2709,0.3407547169811321,3.2362433671840574,0.8256976274061608
+baseline,full_name,7950,987,0.12415094339622641,mara elise vey,812,0.10213836477987422,7.317159933109669,0.9774954327548816

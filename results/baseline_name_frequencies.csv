@@ -1,0 +1,1055 @@
+condition,name_type,name,count,proportion
+baseline,first_name,mara,2709,0.3407547169811321
+baseline,first_name,elias,1244,0.15647798742138364
+baseline,first_name,eleanor,951,0.11962264150943397
+baseline,first_name,evelyn,869,0.10930817610062893
+baseline,first_name,elian,401,0.050440251572327045
+baseline,first_name,elena,317,0.03987421383647799
+baseline,first_name,clara,278,0.0349685534591195
+baseline,first_name,maribel,230,0.028930817610062894
+baseline,first_name,marisol,155,0.01949685534591195
+baseline,first_name,eliana,154,0.019371069182389938
+baseline,first_name,elianora,125,0.015723270440251572
+baseline,first_name,amara,82,0.010314465408805032
+baseline,first_name,eveline,77,0.009685534591194969
+baseline,first_name,elara,69,0.008679245283018867
+baseline,first_name,elianor,44,0.005534591194968554
+baseline,first_name,amelia,31,0.00389937106918239
+baseline,first_name,daniel,17,0.0021383647798742136
+baseline,first_name,marina,16,0.002012578616352201
+baseline,first_name,julian,15,0.0018867924528301887
+baseline,first_name,lena,15,0.0018867924528301887
+baseline,first_name,margaret,14,0.001761006289308176
+baseline,first_name,mateo,13,0.0016352201257861635
+baseline,first_name,eliza,11,0.0013836477987421384
+baseline,first_name,marigold,8,0.0010062893081761006
+baseline,first_name,marcellus,8,0.0010062893081761006
+baseline,first_name,beatrice,6,0.0007547169811320754
+baseline,first_name,marian,6,0.0007547169811320754
+baseline,first_name,edmund,6,0.0007547169811320754
+baseline,first_name,seraphina,6,0.0007547169811320754
+baseline,first_name,marianne,5,0.0006289308176100629
+baseline,first_name,jonas,5,0.0006289308176100629
+baseline,first_name,seren,5,0.0006289308176100629
+baseline,first_name,vivienne,4,0.0005031446540880503
+baseline,first_name,victoria,4,0.0005031446540880503
+baseline,first_name,maraine,4,0.0005031446540880503
+baseline,first_name,jonah,4,0.0005031446540880503
+baseline,first_name,gabriel,4,0.0005031446540880503
+baseline,first_name,nora,3,0.0003773584905660377
+baseline,first_name,leona,3,0.0003773584905660377
+baseline,first_name,marcus,3,0.0003773584905660377
+baseline,first_name,nathaniel,3,0.0003773584905660377
+baseline,first_name,evelina,2,0.00025157232704402514
+baseline,first_name,marabel,2,0.00025157232704402514
+baseline,first_name,mira,2,0.00025157232704402514
+baseline,first_name,marin,2,0.00025157232704402514
+baseline,first_name,thomas,2,0.00025157232704402514
+baseline,first_name,celeste,1,0.00012578616352201257
+baseline,first_name,eloise,1,0.00012578616352201257
+baseline,first_name,leila,1,0.00012578616352201257
+baseline,first_name,liora,1,0.00012578616352201257
+baseline,first_name,maraline,1,0.00012578616352201257
+baseline,first_name,alexandra,1,0.00012578616352201257
+baseline,first_name,helena,1,0.00012578616352201257
+baseline,first_name,isolde,1,0.00012578616352201257
+baseline,first_name,adrian,1,0.00012578616352201257
+baseline,first_name,marius,1,0.00012578616352201257
+baseline,first_name,marae,1,0.00012578616352201257
+baseline,first_name,marlon,1,0.00012578616352201257
+baseline,first_name,martin,1,0.00012578616352201257
+baseline,first_name,edward,1,0.00012578616352201257
+baseline,first_name,marlowe,1,0.00012578616352201257
+baseline,first_name,elijah,1,0.00012578616352201257
+baseline,full_name,mara elise vey,812,0.10213836477987422
+baseline,full_name,evelyn marlowe hart,451,0.05672955974842767
+baseline,full_name,elias rowan mercer,276,0.03471698113207547
+baseline,full_name,mara elian voss,252,0.03169811320754717
+baseline,full_name,mara elise voss,235,0.029559748427672956
+baseline,full_name,mara elise bennett,233,0.02930817610062893
+baseline,full_name,eleanor mae whitaker,222,0.027924528301886794
+baseline,full_name,mara elise calder,202,0.02540880503144654
+baseline,full_name,mara elise venn,179,0.02251572327044025
+baseline,full_name,elias thorne,154,0.019371069182389938
+baseline,full_name,elian marlowe,134,0.016855345911949687
+baseline,full_name,evelyn marlowe,133,0.016729559748427672
+baseline,full_name,mara elise whitcomb,124,0.01559748427672956
+baseline,full_name,elias marlowe,103,0.012955974842767295
+baseline,full_name,elias gabriel mercer,94,0.011823899371069183
+baseline,full_name,eleanor maris vale,88,0.011069182389937107
+baseline,full_name,mara elise bell,81,0.010188679245283019
+baseline,full_name,elena marisol veyra,66,0.00830188679245283
+baseline,full_name,marisol elena vega,66,0.00830188679245283
+baseline,full_name,elian voss,64,0.008050314465408805
+baseline,full_name,elena marisol reyes,63,0.007924528301886792
+baseline,full_name,mara ellison,60,0.007547169811320755
+baseline,full_name,eleanor grace whitaker,58,0.00729559748427673
+baseline,full_name,elena marisol vale,55,0.006918238993710692
+baseline,full_name,clara elise whitmore,55,0.006918238993710692
+baseline,full_name,elias mercer,54,0.006792452830188679
+baseline,full_name,maribel elise hart,50,0.006289308176100629
+baseline,full_name,mara evelyn voss,46,0.0057861635220125785
+baseline,full_name,mara ellison vale,44,0.005534591194968554
+baseline,full_name,elena marisol vega,43,0.005408805031446541
+baseline,full_name,eleanor vesper hart,42,0.005283018867924529
+baseline,full_name,eliana marisol vale,41,0.005157232704402516
+baseline,full_name,mara elise vance,39,0.004905660377358491
+baseline,full_name,clara elise marlowe,38,0.004779874213836478
+baseline,full_name,clara mae whitaker,38,0.004779874213836478
+baseline,full_name,mara elise whitaker,38,0.004779874213836478
+baseline,full_name,eleanor voss,38,0.004779874213836478
+baseline,full_name,elianora vale,37,0.004654088050314465
+baseline,full_name,evelyn marisol hart,34,0.004276729559748427
+baseline,full_name,elias rowan vale,34,0.004276729559748427
+baseline,full_name,mara elise bellamy,31,0.00389937106918239
+baseline,full_name,maribel elise navarro,31,0.00389937106918239
+baseline,full_name,elias nathaniel vale,31,0.00389937106918239
+baseline,full_name,eleanor grace whitmore,30,0.0037735849056603774
+baseline,full_name,eveline marlowe,30,0.0037735849056603774
+baseline,full_name,marisol elena veyra,29,0.003647798742138365
+baseline,full_name,elias nathaniel voss,29,0.003647798742138365
+baseline,full_name,eleanor maeve whitaker,28,0.003522012578616352
+baseline,full_name,elian marlowe vey,28,0.003522012578616352
+baseline,full_name,mara elise bellweather,27,0.0033962264150943396
+baseline,full_name,elias nathaniel mercer,27,0.0033962264150943396
+baseline,full_name,mara elian vey,26,0.003270440251572327
+baseline,full_name,elianora mae voss,26,0.003270440251572327
+baseline,full_name,elias marrow,26,0.003270440251572327
+baseline,full_name,evelyn marigold hart,25,0.0031446540880503146
+baseline,full_name,elias rowan,24,0.0030188679245283017
+baseline,full_name,elena marisol vey,23,0.0028930817610062893
+baseline,full_name,elias james mercer,23,0.0028930817610062893
+baseline,full_name,evelyn maris vale,22,0.002767295597484277
+baseline,full_name,eleanor marlowe,21,0.0026415094339622643
+baseline,full_name,eleanor marlowe voss,21,0.0026415094339622643
+baseline,full_name,eleanor mae whitcomb,20,0.0025157232704402514
+baseline,full_name,mara vey,20,0.0025157232704402514
+baseline,full_name,mara elise bellwether,19,0.002389937106918239
+baseline,full_name,mara elise callahan,19,0.002389937106918239
+baseline,full_name,eleanor mae whitlock,18,0.0022641509433962265
+baseline,full_name,amara elise vale,18,0.0022641509433962265
+baseline,full_name,elias marlowe venn,18,0.0022641509433962265
+baseline,full_name,eveline marlowe hart,17,0.0021383647798742136
+baseline,full_name,mara elise navarro,17,0.0021383647798742136
+baseline,full_name,eleanor maeve hart,17,0.0021383647798742136
+baseline,full_name,eliana marlowe,17,0.0021383647798742136
+baseline,full_name,elian vale,17,0.0021383647798742136
+baseline,full_name,eleanor marlowe vey,16,0.002012578616352201
+baseline,full_name,elianora vey,16,0.002012578616352201
+baseline,full_name,mara veyne,16,0.002012578616352201
+baseline,full_name,daniel elias mercer,16,0.002012578616352201
+baseline,full_name,eleanor margaret vale,15,0.0018867924528301887
+baseline,full_name,amara elise bennett,15,0.0018867924528301887
+baseline,full_name,amara elise vey,15,0.0018867924528301887
+baseline,full_name,eliana marisol vey,15,0.0018867924528301887
+baseline,full_name,mara elise vale,15,0.0018867924528301887
+baseline,full_name,elian marrow,15,0.0018867924528301887
+baseline,full_name,amara elise voss,14,0.001761006289308176
+baseline,full_name,maribel elian voss,14,0.001761006289308176
+baseline,full_name,evelyn marlowe grant,14,0.001761006289308176
+baseline,full_name,eleanor vale,14,0.001761006289308176
+baseline,full_name,elias gabriel vale,14,0.001761006289308176
+baseline,full_name,eleanor maribel voss,13,0.0016352201257861635
+baseline,full_name,eliana marisol veyra,13,0.0016352201257861635
+baseline,full_name,mara elise calloway,13,0.0016352201257861635
+baseline,full_name,eleanor grace whitcomb,13,0.0016352201257861635
+baseline,full_name,elian marlowe voss,13,0.0016352201257861635
+baseline,full_name,elias theodore vale,13,0.0016352201257861635
+baseline,full_name,elena marisol varela,12,0.0015094339622641509
+baseline,full_name,clara beatrice vale,12,0.0015094339622641509
+baseline,full_name,elian james marlowe,12,0.0015094339622641509
+baseline,full_name,elias gabriel voss,12,0.0015094339622641509
+baseline,full_name,elias marlowe bell,12,0.0015094339622641509
+baseline,full_name,elian marrowe,12,0.0015094339622641509
+baseline,full_name,clara beatrice whitmore,11,0.0013836477987421384
+baseline,full_name,evelyn maribel hart,11,0.0013836477987421384
+baseline,full_name,eleanor maeve voss,11,0.0013836477987421384
+baseline,full_name,elias jonah mercer,11,0.0013836477987421384
+baseline,full_name,elias mateo varela,11,0.0013836477987421384
+baseline,full_name,mara evelyn bell,10,0.0012578616352201257
+baseline,full_name,elianora grace vale,10,0.0012578616352201257
+baseline,full_name,elena marlowe,10,0.0012578616352201257
+baseline,full_name,eleanor mae hart,10,0.0012578616352201257
+baseline,full_name,eleanor vesper marlowe,10,0.0012578616352201257
+baseline,full_name,eleanor grace mercer,10,0.0012578616352201257
+baseline,full_name,eleanor mae voss,10,0.0012578616352201257
+baseline,full_name,marisol evelyn hart,9,0.0011320754716981133
+baseline,full_name,elianor mae voss,9,0.0011320754716981133
+baseline,full_name,eleanor june whitaker,9,0.0011320754716981133
+baseline,full_name,eleanor marlowe whitaker,9,0.0011320754716981133
+baseline,full_name,elara mae whitcomb,9,0.0011320754716981133
+baseline,full_name,eliana marisol vega,9,0.0011320754716981133
+baseline,full_name,elara voss,9,0.0011320754716981133
+baseline,full_name,evelyn mae calder,9,0.0011320754716981133
+baseline,full_name,eleanor grace vale,9,0.0011320754716981133
+baseline,full_name,elena marlowe voss,9,0.0011320754716981133
+baseline,full_name,maribel elise vey,8,0.0010062893081761006
+baseline,full_name,maribel elowen hart,8,0.0010062893081761006
+baseline,full_name,eleanor beatrice vale,8,0.0010062893081761006
+baseline,full_name,eliana marisol reyes,8,0.0010062893081761006
+baseline,full_name,eleanor vey,8,0.0010062893081761006
+baseline,full_name,lena marisol vale,8,0.0010062893081761006
+baseline,full_name,elias vane,8,0.0010062893081761006
+baseline,full_name,eleanor maeve whitlock,8,0.0010062893081761006
+baseline,full_name,elara veyne,8,0.0010062893081761006
+baseline,full_name,eleanor vesper,8,0.0010062893081761006
+baseline,full_name,elias venn,8,0.0010062893081761006
+baseline,full_name,evelyn marlowe whitaker,7,0.000880503144654088
+baseline,full_name,eleanor vesper whitcomb,7,0.000880503144654088
+baseline,full_name,maribel elise rowan,7,0.000880503144654088
+baseline,full_name,evelyn marigold vale,7,0.000880503144654088
+baseline,full_name,clara elise merriweather,7,0.000880503144654088
+baseline,full_name,elena marisol vance,7,0.000880503144654088
+baseline,full_name,elianor vale,7,0.000880503144654088
+baseline,full_name,elena marisol hart,7,0.000880503144654088
+baseline,full_name,evelyn marlowe carter,7,0.000880503144654088
+baseline,full_name,elena marisol velez,7,0.000880503144654088
+baseline,full_name,evelyn grace mercer,7,0.000880503144654088
+baseline,full_name,eliana marisol velez,7,0.000880503144654088
+baseline,full_name,eliana maris vale,7,0.000880503144654088
+baseline,full_name,mara elian vale,7,0.000880503144654088
+baseline,full_name,evelyn mara voss,7,0.000880503144654088
+baseline,full_name,elara mae voss,7,0.000880503144654088
+baseline,full_name,marisol elena vale,7,0.000880503144654088
+baseline,full_name,maribel anouk vale,7,0.000880503144654088
+baseline,full_name,elian vale mercer,7,0.000880503144654088
+baseline,full_name,elias rowan bell,7,0.000880503144654088
+baseline,full_name,clara elise vey,7,0.000880503144654088
+baseline,full_name,elias wren,7,0.000880503144654088
+baseline,full_name,mateo elias navarro,7,0.000880503144654088
+baseline,full_name,maribel june hart,6,0.0007547169811320754
+baseline,full_name,eveline marigold hart,6,0.0007547169811320754
+baseline,full_name,eveline marrow,6,0.0007547169811320754
+baseline,full_name,mara evelyn vale,6,0.0007547169811320754
+baseline,full_name,clara mae whitmore,6,0.0007547169811320754
+baseline,full_name,evelyn claire mercer,6,0.0007547169811320754
+baseline,full_name,elena maris vale,6,0.0007547169811320754
+baseline,full_name,clara elise whitcomb,6,0.0007547169811320754
+baseline,full_name,eliana rose mercer,6,0.0007547169811320754
+baseline,full_name,clara beatrice whitcomb,6,0.0007547169811320754
+baseline,full_name,eliana grace mercer,6,0.0007547169811320754
+baseline,full_name,elias thorne whitaker,6,0.0007547169811320754
+baseline,full_name,mara ellison vey,6,0.0007547169811320754
+baseline,full_name,amara celeste vey,6,0.0007547169811320754
+baseline,full_name,eleanor marlowe vance,6,0.0007547169811320754
+baseline,full_name,maribel anouk vey,6,0.0007547169811320754
+baseline,full_name,elian mara voss,6,0.0007547169811320754
+baseline,full_name,elara june marlowe,6,0.0007547169811320754
+baseline,full_name,amara celeste vale,6,0.0007547169811320754
+baseline,full_name,elias peregrine vale,6,0.0007547169811320754
+baseline,full_name,elias august vale,6,0.0007547169811320754
+baseline,full_name,elias vale,6,0.0007547169811320754
+baseline,full_name,elian veyr,6,0.0007547169811320754
+baseline,full_name,marisol evelyn veyra,5,0.0006289308176100629
+baseline,full_name,marisol evelyn vale,5,0.0006289308176100629
+baseline,full_name,maribel elena santos,5,0.0006289308176100629
+baseline,full_name,amelia rose calder,5,0.0006289308176100629
+baseline,full_name,amelia grace navarro,5,0.0006289308176100629
+baseline,full_name,maribel elianora voss,5,0.0006289308176100629
+baseline,full_name,evelyn mae hart,5,0.0006289308176100629
+baseline,full_name,clara evelyn mercer,5,0.0006289308176100629
+baseline,full_name,eleanor mae bellweather,5,0.0006289308176100629
+baseline,full_name,eleanor mae bell,5,0.0006289308176100629
+baseline,full_name,mara elise whitmore,5,0.0006289308176100629
+baseline,full_name,evelyn mara hart,5,0.0006289308176100629
+baseline,full_name,marisol elian veyra,5,0.0006289308176100629
+baseline,full_name,elias rowan whitaker,5,0.0006289308176100629
+baseline,full_name,clara mae whitlock,5,0.0006289308176100629
+baseline,full_name,eleanor vale mercer,5,0.0006289308176100629
+baseline,full_name,evelyn maris calder,5,0.0006289308176100629
+baseline,full_name,elian thomas marlowe,5,0.0006289308176100629
+baseline,full_name,elian veyra,5,0.0006289308176100629
+baseline,full_name,mara elise velez,5,0.0006289308176100629
+baseline,full_name,elias nathaniel wren,5,0.0006289308176100629
+baseline,full_name,elias marlowe vey,5,0.0006289308176100629
+baseline,full_name,evelyn marlowe vance,5,0.0006289308176100629
+baseline,full_name,elian marcus vale,5,0.0006289308176100629
+baseline,full_name,mara evelyn vance,5,0.0006289308176100629
+baseline,full_name,seraphina elian voss,5,0.0006289308176100629
+baseline,full_name,elian thorne,5,0.0006289308176100629
+baseline,full_name,marisol elise navarro,4,0.0005031446540880503
+baseline,full_name,evelyn margaret vale,4,0.0005031446540880503
+baseline,full_name,evelyn margaret hart,4,0.0005031446540880503
+baseline,full_name,eleanor marlowe whitcomb,4,0.0005031446540880503
+baseline,full_name,maribel ellison,4,0.0005031446540880503
+baseline,full_name,amelia grace mercer,4,0.0005031446540880503
+baseline,full_name,elianora voss,4,0.0005031446540880503
+baseline,full_name,eleanor may voss,4,0.0005031446540880503
+baseline,full_name,clara mae whitcomb,4,0.0005031446540880503
+baseline,full_name,clara elise bennett,4,0.0005031446540880503
+baseline,full_name,evelyn marie hart,4,0.0005031446540880503
+baseline,full_name,eliana marisol vance,4,0.0005031446540880503
+baseline,full_name,elara miriam voss,4,0.0005031446540880503
+baseline,full_name,eliza maren vale,4,0.0005031446540880503
+baseline,full_name,marina elise calder,4,0.0005031446540880503
+baseline,full_name,marian elise vale,4,0.0005031446540880503
+baseline,full_name,eleanor marlowe venn,4,0.0005031446540880503
+baseline,full_name,clara elise mercer,4,0.0005031446540880503
+baseline,full_name,maribel anouk veyra,4,0.0005031446540880503
+baseline,full_name,elian thomas vale,4,0.0005031446540880503
+baseline,full_name,elian james mercer,4,0.0005031446540880503
+baseline,full_name,mara elise veyne,4,0.0005031446540880503
+baseline,full_name,eleanor margot vale,4,0.0005031446540880503
+baseline,full_name,elian matthias voss,4,0.0005031446540880503
+baseline,full_name,marcellus adrian vale,4,0.0005031446540880503
+baseline,full_name,elian gabriel voss,4,0.0005031446540880503
+baseline,full_name,evelyn marlowe vey,4,0.0005031446540880503
+baseline,full_name,elias veyr,4,0.0005031446540880503
+baseline,full_name,elias merriweather,4,0.0005031446540880503
+baseline,full_name,elias rowan thorne,4,0.0005031446540880503
+baseline,full_name,elias rowan whitlock,4,0.0005031446540880503
+baseline,full_name,mara evelyn calder,4,0.0005031446540880503
+baseline,full_name,elias theodore bell,4,0.0005031446540880503
+baseline,full_name,elias thornmere,4,0.0005031446540880503
+baseline,full_name,mara veyne calder,4,0.0005031446540880503
+baseline,full_name,mateo elias varela,4,0.0005031446540880503
+baseline,full_name,elara june whitmore,3,0.0003773584905660377
+baseline,full_name,clara elise beaumont,3,0.0003773584905660377
+baseline,full_name,marisol evelyn vega,3,0.0003773584905660377
+baseline,full_name,julian mateo reyes,3,0.0003773584905660377
+baseline,full_name,maribel elena voss,3,0.0003773584905660377
+baseline,full_name,eleanor beatrice whitcomb,3,0.0003773584905660377
+baseline,full_name,evelyn margaret harrow,3,0.0003773584905660377
+baseline,full_name,evelyn rose mercer,3,0.0003773584905660377
+baseline,full_name,mara elise varela,3,0.0003773584905660377
+baseline,full_name,clara elise bellamy,3,0.0003773584905660377
+baseline,full_name,eleanor maeve bell,3,0.0003773584905660377
+baseline,full_name,amelia rose navarro,3,0.0003773584905660377
+baseline,full_name,elianor voss,3,0.0003773584905660377
+baseline,full_name,clara elise marrow,3,0.0003773584905660377
+baseline,full_name,clara elian voss,3,0.0003773584905660377
+baseline,full_name,elianora june vale,3,0.0003773584905660377
+baseline,full_name,maribel elara voss,3,0.0003773584905660377
+baseline,full_name,elianor grace vale,3,0.0003773584905660377
+baseline,full_name,eleanor may bell,3,0.0003773584905660377
+baseline,full_name,amelia rose bennett,3,0.0003773584905660377
+baseline,full_name,amelia rose whitaker,3,0.0003773584905660377
+baseline,full_name,clara mae ellison,3,0.0003773584905660377
+baseline,full_name,clara elizabeth whitmore,3,0.0003773584905660377
+baseline,full_name,eleanor mae hartwell,3,0.0003773584905660377
+baseline,full_name,marina elise hart,3,0.0003773584905660377
+baseline,full_name,marigold elise hart,3,0.0003773584905660377
+baseline,full_name,mara elise ellison,3,0.0003773584905660377
+baseline,full_name,elias wrenford,3,0.0003773584905660377
+baseline,full_name,eleanor maris vey,3,0.0003773584905660377
+baseline,full_name,maribel anwen hart,3,0.0003773584905660377
+baseline,full_name,elias wren calder,3,0.0003773584905660377
+baseline,full_name,marina elise vale,3,0.0003773584905660377
+baseline,full_name,elianor maeve hart,3,0.0003773584905660377
+baseline,full_name,evelyn marlowe bennett,3,0.0003773584905660377
+baseline,full_name,eleanor margaret voss,3,0.0003773584905660377
+baseline,full_name,elianor mae whitaker,3,0.0003773584905660377
+baseline,full_name,eleanor mae calder,3,0.0003773584905660377
+baseline,full_name,mara evelyn hart,3,0.0003773584905660377
+baseline,full_name,evelyn hart,3,0.0003773584905660377
+baseline,full_name,mara celeste vey,3,0.0003773584905660377
+baseline,full_name,elias gabriel vey,3,0.0003773584905660377
+baseline,full_name,elian marrow vale,3,0.0003773584905660377
+baseline,full_name,marina elise vey,3,0.0003773584905660377
+baseline,full_name,victoria elise marlowe,3,0.0003773584905660377
+baseline,full_name,eleanor vivienne hart,3,0.0003773584905660377
+baseline,full_name,eleanor maeve harrow,3,0.0003773584905660377
+baseline,full_name,eleanor voss mercer,3,0.0003773584905660377
+baseline,full_name,evelyn marlowe voss,3,0.0003773584905660377
+baseline,full_name,mara vey calder,3,0.0003773584905660377
+baseline,full_name,julian elias mercer,3,0.0003773584905660377
+baseline,full_name,elian gabriel mercer,3,0.0003773584905660377
+baseline,full_name,elian voss mercer,3,0.0003773584905660377
+baseline,full_name,elias marrow vale,3,0.0003773584905660377
+baseline,full_name,elias vey,3,0.0003773584905660377
+baseline,full_name,mara vale,3,0.0003773584905660377
+baseline,full_name,mara voss,3,0.0003773584905660377
+baseline,full_name,elias gabriel vane,3,0.0003773584905660377
+baseline,full_name,mara evelyn vey,3,0.0003773584905660377
+baseline,full_name,elias marlowe bennett,3,0.0003773584905660377
+baseline,full_name,edmund elias vale,3,0.0003773584905660377
+baseline,full_name,eleanor mae callahan,3,0.0003773584905660377
+baseline,full_name,elias everett mercer,3,0.0003773584905660377
+baseline,full_name,elias martin vale,3,0.0003773584905660377
+baseline,full_name,elias martin calder,3,0.0003773584905660377
+baseline,full_name,mara veylan,3,0.0003773584905660377
+baseline,full_name,mara veyr,3,0.0003773584905660377
+baseline,full_name,mara venn,3,0.0003773584905660377
+baseline,full_name,seren valehart,3,0.0003773584905660377
+baseline,full_name,mara ellian vale,3,0.0003773584905660377
+baseline,full_name,mara ellian voss,3,0.0003773584905660377
+baseline,full_name,jonas elias mercer,3,0.0003773584905660377
+baseline,full_name,jonah elias mercer,3,0.0003773584905660377
+baseline,full_name,gabriel elias mercer,3,0.0003773584905660377
+baseline,full_name,evelyn marie calder,3,0.0003773584905660377
+baseline,full_name,maribel elise laurent,2,0.00025157232704402514
+baseline,full_name,elara june whitcomb,2,0.00025157232704402514
+baseline,full_name,elara june mercer,2,0.00025157232704402514
+baseline,full_name,amara celeste bell,2,0.00025157232704402514
+baseline,full_name,julian everett vale,2,0.00025157232704402514
+baseline,full_name,clara elise bell,2,0.00025157232704402514
+baseline,full_name,maribel rose calderón,2,0.00025157232704402514
+baseline,full_name,maribel louise hart,2,0.00025157232704402514
+baseline,full_name,maribel elise santos,2,0.00025157232704402514
+baseline,full_name,marisol elena varela,2,0.00025157232704402514
+baseline,full_name,clara evangeline mercer,2,0.00025157232704402514
+baseline,full_name,evelyn margaret bell,2,0.00025157232704402514
+baseline,full_name,eleanor may whitcombe,2,0.00025157232704402514
+baseline,full_name,elianor mae bell,2,0.00025157232704402514
+baseline,full_name,maribel josephine vale,2,0.00025157232704402514
+baseline,full_name,mara elise whitcombe,2,0.00025157232704402514
+baseline,full_name,maribel celeste navarro,2,0.00025157232704402514
+baseline,full_name,amelia grace bennett,2,0.00025157232704402514
+baseline,full_name,amelia rose carter,2,0.00025157232704402514
+baseline,full_name,eveline maribelle hart,2,0.00025157232704402514
+baseline,full_name,eveline marigold vey,2,0.00025157232704402514
+baseline,full_name,eveline maribel hart,2,0.00025157232704402514
+baseline,full_name,eveline rosamund vale,2,0.00025157232704402514
+baseline,full_name,eveline maris bell,2,0.00025157232704402514
+baseline,full_name,eveline maris thorne,2,0.00025157232704402514
+baseline,full_name,evelyn maribelle hart,2,0.00025157232704402514
+baseline,full_name,elianora mae bellwether,2,0.00025157232704402514
+baseline,full_name,clara marigold vale,2,0.00025157232704402514
+baseline,full_name,evelyn maris bell,2,0.00025157232704402514
+baseline,full_name,marigold elise vale,2,0.00025157232704402514
+baseline,full_name,eliana rose marlowe,2,0.00025157232704402514
+baseline,full_name,evelyn rose marlowe,2,0.00025157232704402514
+baseline,full_name,eleanor marigold vale,2,0.00025157232704402514
+baseline,full_name,eleanor june whitcomb,2,0.00025157232704402514
+baseline,full_name,elianora mae bellweather,2,0.00025157232704402514
+baseline,full_name,mara bellweather,2,0.00025157232704402514
+baseline,full_name,eleanor mae whitmore,2,0.00025157232704402514
+baseline,full_name,evelyn maris bellweather,2,0.00025157232704402514
+baseline,full_name,evelyn carter,2,0.00025157232704402514
+baseline,full_name,maribel elise carter,2,0.00025157232704402514
+baseline,full_name,clara elise moreno,2,0.00025157232704402514
+baseline,full_name,clara maribel voss,2,0.00025157232704402514
+baseline,full_name,evelyn clara hart,2,0.00025157232704402514
+baseline,full_name,nora elise whitaker,2,0.00025157232704402514
+baseline,full_name,margaret elise holloway,2,0.00025157232704402514
+baseline,full_name,clara whitaker,2,0.00025157232704402514
+baseline,full_name,clara miriam bell,2,0.00025157232704402514
+baseline,full_name,eleanor marlowe finch,2,0.00025157232704402514
+baseline,full_name,eleanor vesper whitlock,2,0.00025157232704402514
+baseline,full_name,maribel anouk reyes,2,0.00025157232704402514
+baseline,full_name,maribel eleanor voss,2,0.00025157232704402514
+baseline,full_name,maribel june holloway,2,0.00025157232704402514
+baseline,full_name,eliza mae hartwell,2,0.00025157232704402514
+baseline,full_name,amara elise whitcomb,2,0.00025157232704402514
+baseline,full_name,mara evelyn whitcomb,2,0.00025157232704402514
+baseline,full_name,eliana mae mercer,2,0.00025157232704402514
+baseline,full_name,lena marisol hart,2,0.00025157232704402514
+baseline,full_name,amara elise venn,2,0.00025157232704402514
+baseline,full_name,mara vesper vale,2,0.00025157232704402514
+baseline,full_name,marisol elise vey,2,0.00025157232704402514
+baseline,full_name,evelyn marlowe finch,2,0.00025157232704402514
+baseline,full_name,elias ambrose vale,2,0.00025157232704402514
+baseline,full_name,elias theodore venn,2,0.00025157232704402514
+baseline,full_name,marianne elise vale,2,0.00025157232704402514
+baseline,full_name,eleanor marisol vale,2,0.00025157232704402514
+baseline,full_name,evelyn claire hart,2,0.00025157232704402514
+baseline,full_name,clara beatrice marlowe,2,0.00025157232704402514
+baseline,full_name,eleanor whitaker,2,0.00025157232704402514
+baseline,full_name,mara evelyn whitaker,2,0.00025157232704402514
+baseline,full_name,maribel anwen vale,2,0.00025157232704402514
+baseline,full_name,elianora vesper hart,2,0.00025157232704402514
+baseline,full_name,margaret elian voss,2,0.00025157232704402514
+baseline,full_name,elian vey,2,0.00025157232704402514
+baseline,full_name,mara elise vellum,2,0.00025157232704402514
+baseline,full_name,eliana marisol voss,2,0.00025157232704402514
+baseline,full_name,eleanor june vale,2,0.00025157232704402514
+baseline,full_name,elianor maeve voss,2,0.00025157232704402514
+baseline,full_name,elena marlowe hart,2,0.00025157232704402514
+baseline,full_name,elian rowan mercer,2,0.00025157232704402514
+baseline,full_name,eliana mae hart,2,0.00025157232704402514
+baseline,full_name,elara maren vale,2,0.00025157232704402514
+baseline,full_name,elara vivienne marlowe,2,0.00025157232704402514
+baseline,full_name,elara maris vale,2,0.00025157232704402514
+baseline,full_name,elara vey marlowe,2,0.00025157232704402514
+baseline,full_name,marisol elara vey,2,0.00025157232704402514
+baseline,full_name,marisol elian vale,2,0.00025157232704402514
+baseline,full_name,elianor mae whitcomb,2,0.00025157232704402514
+baseline,full_name,elianora mae vale,2,0.00025157232704402514
+baseline,full_name,maribel elena veyra,2,0.00025157232704402514
+baseline,full_name,eleanor beatrice marlowe,2,0.00025157232704402514
+baseline,full_name,eleanor vey hartwell,2,0.00025157232704402514
+baseline,full_name,eleanor bennett,2,0.00025157232704402514
+baseline,full_name,eleanor vesper ashcroft,2,0.00025157232704402514
+baseline,full_name,clara beatrice wren,2,0.00025157232704402514
+baseline,full_name,mara evelyn bellweather,2,0.00025157232704402514
+baseline,full_name,evelyn beatrice vale,2,0.00025157232704402514
+baseline,full_name,evelyn marlowe bell,2,0.00025157232704402514
+baseline,full_name,elias marlowe vance,2,0.00025157232704402514
+baseline,full_name,evelyn grace marlowe,2,0.00025157232704402514
+baseline,full_name,maribel voss,2,0.00025157232704402514
+baseline,full_name,margaret elise vale,2,0.00025157232704402514
+baseline,full_name,eleanor vey hart,2,0.00025157232704402514
+baseline,full_name,beatrice elian voss,2,0.00025157232704402514
+baseline,full_name,marianne elise voss,2,0.00025157232704402514
+baseline,full_name,beatrice elianor vale,2,0.00025157232704402514
+baseline,full_name,eliana marlowe voss,2,0.00025157232704402514
+baseline,full_name,elian thomas marrow,2,0.00025157232704402514
+baseline,full_name,elian mercer,2,0.00025157232704402514
+baseline,full_name,mara bellamy,2,0.00025157232704402514
+baseline,full_name,elian mateo voss,2,0.00025157232704402514
+baseline,full_name,eleanor vivienne marlowe,2,0.00025157232704402514
+baseline,full_name,evelyn marlowe sterling,2,0.00025157232704402514
+baseline,full_name,elias thomas marlowe,2,0.00025157232704402514
+baseline,full_name,elias marrow venn,2,0.00025157232704402514
+baseline,full_name,elias thomas wren,2,0.00025157232704402514
+baseline,full_name,mara june ellison,2,0.00025157232704402514
+baseline,full_name,evelyn claire marlowe,2,0.00025157232704402514
+baseline,full_name,elias thorne bellweather,2,0.00025157232704402514
+baseline,full_name,elias thorne merriweather,2,0.00025157232704402514
+baseline,full_name,elias rowan bellweather,2,0.00025157232704402514
+baseline,full_name,eleanor veyra,2,0.00025157232704402514
+baseline,full_name,elian voss calder,2,0.00025157232704402514
+baseline,full_name,edmund vale,2,0.00025157232704402514
+baseline,full_name,elias thorne mercer,2,0.00025157232704402514
+baseline,full_name,julian everett mercer,2,0.00025157232704402514
+baseline,full_name,evelyn marlowe pierce,2,0.00025157232704402514
+baseline,full_name,elias everett boone,2,0.00025157232704402514
+baseline,full_name,elias warren mercer,2,0.00025157232704402514
+baseline,full_name,elias boone calder,2,0.00025157232704402514
+baseline,full_name,elias boone mercer,2,0.00025157232704402514
+baseline,full_name,elias thomas mercer,2,0.00025157232704402514
+baseline,full_name,elias august bell,2,0.00025157232704402514
+baseline,full_name,elias nathaniel bell,2,0.00025157232704402514
+baseline,full_name,elias gabriel bellweather,2,0.00025157232704402514
+baseline,full_name,elias thorne bellamy,2,0.00025157232704402514
+baseline,full_name,elias theodore bellweather,2,0.00025157232704402514
+baseline,full_name,elias vale mercer,2,0.00025157232704402514
+baseline,full_name,elara maren voss,2,0.00025157232704402514
+baseline,full_name,elias matthew vale,2,0.00025157232704402514
+baseline,full_name,elias veyran,2,0.00025157232704402514
+baseline,full_name,elias thornwood,2,0.00025157232704402514
+baseline,full_name,elias matthew rourke,2,0.00025157232704402514
+baseline,full_name,elias rook,2,0.00025157232704402514
+baseline,full_name,elian marrick,2,0.00025157232704402514
+baseline,full_name,elias martin vey,2,0.00025157232704402514
+baseline,full_name,elias marlowe hart,2,0.00025157232704402514
+baseline,full_name,elias rowan hale,2,0.00025157232704402514
+baseline,full_name,elias daniel mercer,2,0.00025157232704402514
+baseline,full_name,elias mateo calderón,2,0.00025157232704402514
+baseline,full_name,elias james morrow,2,0.00025157232704402514
+baseline,full_name,evelyn marie mercer,2,0.00025157232704402514
+baseline,full_name,celeste amara bell,1,0.00012578616352201257
+baseline,full_name,marisol velez,1,0.00012578616352201257
+baseline,full_name,elara josephine vale,1,0.00012578616352201257
+baseline,full_name,evelyn marisol vale,1,0.00012578616352201257
+baseline,full_name,vivienne elise carter,1,0.00012578616352201257
+baseline,full_name,vivienne elise mercer,1,0.00012578616352201257
+baseline,full_name,vivienne elise hart,1,0.00012578616352201257
+baseline,full_name,marisol celeste vega,1,0.00012578616352201257
+baseline,full_name,marisol elise bennett,1,0.00012578616352201257
+baseline,full_name,maribel june alvarez,1,0.00012578616352201257
+baseline,full_name,maribel estelle cruz,1,0.00012578616352201257
+baseline,full_name,clara margaret bell,1,0.00012578616352201257
+baseline,full_name,julian mateo flores,1,0.00012578616352201257
+baseline,full_name,julian elias mercado,1,0.00012578616352201257
+baseline,full_name,lena mae holloway,1,0.00012578616352201257
+baseline,full_name,marisol elena velez,1,0.00012578616352201257
+baseline,full_name,clara bellamy,1,0.00012578616352201257
+baseline,full_name,maribel estrella navarro,1,0.00012578616352201257
+baseline,full_name,evelyn rose bellamy,1,0.00012578616352201257
+baseline,full_name,maribel estrella santos,1,0.00012578616352201257
+baseline,full_name,eleanor margaret wren,1,0.00012578616352201257
+baseline,full_name,evelyn clara whitmore,1,0.00012578616352201257
+baseline,full_name,evelyn marigold price,1,0.00012578616352201257
+baseline,full_name,clara eleanor whitcomb,1,0.00012578616352201257
+baseline,full_name,clara elowen mercer,1,0.00012578616352201257
+baseline,full_name,evelyn margaret hartwell,1,0.00012578616352201257
+baseline,full_name,maribel estelle rowan,1,0.00012578616352201257
+baseline,full_name,elena marisol varga,1,0.00012578616352201257
+baseline,full_name,elianora june bell,1,0.00012578616352201257
+baseline,full_name,marisol eliana veyra,1,0.00012578616352201257
+baseline,full_name,amelia grace vey,1,0.00012578616352201257
+baseline,full_name,margaret elianor voss,1,0.00012578616352201257
+baseline,full_name,maribel elowen vey,1,0.00012578616352201257
+baseline,full_name,elianora vesper vale,1,0.00012578616352201257
+baseline,full_name,elianor beatrice vey,1,0.00012578616352201257
+baseline,full_name,elianor vesper,1,0.00012578616352201257
+baseline,full_name,evelina marlowe,1,0.00012578616352201257
+baseline,full_name,elara maribel vey,1,0.00012578616352201257
+baseline,full_name,elianora vesper bell,1,0.00012578616352201257
+baseline,full_name,eveline marietta vale,1,0.00012578616352201257
+baseline,full_name,eliza maribel vey,1,0.00012578616352201257
+baseline,full_name,margaret elowen vale,1,0.00012578616352201257
+baseline,full_name,mara elianor voss,1,0.00012578616352201257
+baseline,full_name,amelia rose bellamy,1,0.00012578616352201257
+baseline,full_name,clara elianor vale,1,0.00012578616352201257
+baseline,full_name,elianora veyne,1,0.00012578616352201257
+baseline,full_name,margaret eliza vey,1,0.00012578616352201257
+baseline,full_name,eveline marroway,1,0.00012578616352201257
+baseline,full_name,elianora maribel vey,1,0.00012578616352201257
+baseline,full_name,elianora maeve whitcomb,1,0.00012578616352201257
+baseline,full_name,evelyn maris hart,1,0.00012578616352201257
+baseline,full_name,clara evelyn hart,1,0.00012578616352201257
+baseline,full_name,evelyn clara mercer,1,0.00012578616352201257
+baseline,full_name,clara evelyn wren,1,0.00012578616352201257
+baseline,full_name,evelyn rose calder,1,0.00012578616352201257
+baseline,full_name,mara celeste bellweather,1,0.00012578616352201257
+baseline,full_name,maribel elise thorne,1,0.00012578616352201257
+baseline,full_name,evelyn rose ainsworth,1,0.00012578616352201257
+baseline,full_name,marigold eliza vale,1,0.00012578616352201257
+baseline,full_name,mara celeste bell,1,0.00012578616352201257
+baseline,full_name,eleanor marigold voss,1,0.00012578616352201257
+baseline,full_name,elianora rose bellweather,1,0.00012578616352201257
+baseline,full_name,marigold elian voss,1,0.00012578616352201257
+baseline,full_name,elianora marigold vey,1,0.00012578616352201257
+baseline,full_name,"evelyn rose ashford -> evelyn ashford 
+
+evelyn ashford",1,0.00012578616352201257
+baseline,full_name,elianor mae bellweather,1,0.00012578616352201257
+baseline,full_name,clara evangeline vale,1,0.00012578616352201257
+baseline,full_name,elianora rose vale,1,0.00012578616352201257
+baseline,full_name,evelina marigold hart,1,0.00012578616352201257
+baseline,full_name,clara whitlock,1,0.00012578616352201257
+baseline,full_name,eleanor vesper hawthorne,1,0.00012578616352201257
+baseline,full_name,margaret eleanor bell,1,0.00012578616352201257
+baseline,full_name,eleanor may bellwether,1,0.00012578616352201257
+baseline,full_name,eleanor margaret bell,1,0.00012578616352201257
+baseline,full_name,elena maribel voss,1,0.00012578616352201257
+baseline,full_name,eleanor beatrice finch,1,0.00012578616352201257
+baseline,full_name,eleanor may whitcomb,1,0.00012578616352201257
+baseline,full_name,margaret eliza bell,1,0.00012578616352201257
+baseline,full_name,eleanor maribel finch,1,0.00012578616352201257
+baseline,full_name,marisol elena reyes,1,0.00012578616352201257
+baseline,full_name,marisol evelyn carter,1,0.00012578616352201257
+baseline,full_name,evelyn maris carter,1,0.00012578616352201257
+baseline,full_name,maribel grace hart,1,0.00012578616352201257
+baseline,full_name,maribel eliana hart,1,0.00012578616352201257
+baseline,full_name,eleanor may hart,1,0.00012578616352201257
+baseline,full_name,clara beatrice holloway,1,0.00012578616352201257
+baseline,full_name,evelyn rose hartwell,1,0.00012578616352201257
+baseline,full_name,marigold bennett,1,0.00012578616352201257
+baseline,full_name,elena marisol bennett,1,0.00012578616352201257
+baseline,full_name,eliza marlowe,1,0.00012578616352201257
+baseline,full_name,clara beatrice ellison,1,0.00012578616352201257
+baseline,full_name,clara evangeline bell,1,0.00012578616352201257
+baseline,full_name,clara eleanor vale,1,0.00012578616352201257
+baseline,full_name,eleanor vivienne hartwell,1,0.00012578616352201257
+baseline,full_name,eliana marlowe hart,1,0.00012578616352201257
+baseline,full_name,evelyn marigold hartwell,1,0.00012578616352201257
+baseline,full_name,clara beatrice bellamy,1,0.00012578616352201257
+baseline,full_name,clara mae bellwether,1,0.00012578616352201257
+baseline,full_name,vivienne elise marlowe,1,0.00012578616352201257
+baseline,full_name,eleanor rose whitaker,1,0.00012578616352201257
+baseline,full_name,evelyn maren calloway,1,0.00012578616352201257
+baseline,full_name,nora elise callahan,1,0.00012578616352201257
+baseline,full_name,evelyn marisol carter,1,0.00012578616352201257
+baseline,full_name,clara whitmore,1,0.00012578616352201257
+baseline,full_name,clara elian marlowe,1,0.00012578616352201257
+baseline,full_name,eleanor grace ellison,1,0.00012578616352201257
+baseline,full_name,clara margaret whitmore,1,0.00012578616352201257
+baseline,full_name,amelia grace hart,1,0.00012578616352201257
+baseline,full_name,elian theodore voss,1,0.00012578616352201257
+baseline,full_name,marabel ruth ellison,1,0.00012578616352201257
+baseline,full_name,eleanor vesper ashcombe,1,0.00012578616352201257
+baseline,full_name,evelyn isolde vale,1,0.00012578616352201257
+baseline,full_name,maribel june bellwether,1,0.00012578616352201257
+baseline,full_name,maribel celeste alvarez,1,0.00012578616352201257
+baseline,full_name,eliana maribel voss,1,0.00012578616352201257
+baseline,full_name,beatrice elianor bell,1,0.00012578616352201257
+baseline,full_name,maribel eleanor vale,1,0.00012578616352201257
+baseline,full_name,elianora grace whitcomb,1,0.00012578616352201257
+baseline,full_name,beatrice celeste bellweather,1,0.00012578616352201257
+baseline,full_name,eleanor mae bellamy,1,0.00012578616352201257
+baseline,full_name,eliana maribel hart,1,0.00012578616352201257
+baseline,full_name,elena maribel hart,1,0.00012578616352201257
+baseline,full_name,maribel rose calder,1,0.00012578616352201257
+baseline,full_name,clara beatrice bellwether,1,0.00012578616352201257
+baseline,full_name,maribel estelle hart,1,0.00012578616352201257
+baseline,full_name,eliana rose bellweather,1,0.00012578616352201257
+baseline,full_name,maribel ellery,1,0.00012578616352201257
+baseline,full_name,evelyn beatrice hart,1,0.00012578616352201257
+baseline,full_name,maribel celeste voss,1,0.00012578616352201257
+baseline,full_name,clara beatrice bellweather,1,0.00012578616352201257
+baseline,full_name,evelyn marigold bell,1,0.00012578616352201257
+baseline,full_name,eloise maribel hart,1,0.00012578616352201257
+baseline,full_name,leila maren okafor,1,0.00012578616352201257
+baseline,full_name,elianora maeve bennett,1,0.00012578616352201257
+baseline,full_name,eliana grace vale,1,0.00012578616352201257
+baseline,full_name,eliana marisol varela,1,0.00012578616352201257
+baseline,full_name,eliana mae whitaker,1,0.00012578616352201257
+baseline,full_name,elianora mae hartwell,1,0.00012578616352201257
+baseline,full_name,mara elise rowan,1,0.00012578616352201257
+baseline,full_name,eliana mae hartwell,1,0.00012578616352201257
+baseline,full_name,mara elisabet venn,1,0.00012578616352201257
+baseline,full_name,mara vellum,1,0.00012578616352201257
+baseline,full_name,maribel estelle vey,1,0.00012578616352201257
+baseline,full_name,lena morales,1,0.00012578616352201257
+baseline,full_name,lena marisol veyra,1,0.00012578616352201257
+baseline,full_name,mara celeste ellison,1,0.00012578616352201257
+baseline,full_name,elena grace mercer,1,0.00012578616352201257
+baseline,full_name,eleanor may bellweather,1,0.00012578616352201257
+baseline,full_name,eveline marlowe whitaker,1,0.00012578616352201257
+baseline,full_name,elias benedict vale,1,0.00012578616352201257
+baseline,full_name,evelyn marlowe harrow,1,0.00012578616352201257
+baseline,full_name,evelyn marlowe venn,1,0.00012578616352201257
+baseline,full_name,elias thorne bellwether,1,0.00012578616352201257
+baseline,full_name,elias matthew vane,1,0.00012578616352201257
+baseline,full_name,margaret elise rowan,1,0.00012578616352201257
+baseline,full_name,eleanor jane whitaker,1,0.00012578616352201257
+baseline,full_name,marina elise voss,1,0.00012578616352201257
+baseline,full_name,eliana voss,1,0.00012578616352201257
+baseline,full_name,marina elise bellweather,1,0.00012578616352201257
+baseline,full_name,eleanor marlowe bennett,1,0.00012578616352201257
+baseline,full_name,amelia rose bellweather,1,0.00012578616352201257
+baseline,full_name,clara maeve ellison,1,0.00012578616352201257
+baseline,full_name,marina elise whitaker,1,0.00012578616352201257
+baseline,full_name,lena hart,1,0.00012578616352201257
+baseline,full_name,evelyn bennett,1,0.00012578616352201257
+baseline,full_name,marian elise voss,1,0.00012578616352201257
+baseline,full_name,elianor mae whitlock,1,0.00012578616352201257
+baseline,full_name,mira elise rowan,1,0.00012578616352201257
+baseline,full_name,elianora vesper thorne,1,0.00012578616352201257
+baseline,full_name,maribel agnes thorne,1,0.00012578616352201257
+baseline,full_name,eveline marlowe bell,1,0.00012578616352201257
+baseline,full_name,maribel anouk bellweather,1,0.00012578616352201257
+baseline,full_name,elianor vesper hart,1,0.00012578616352201257
+baseline,full_name,elianora mae whitcomb,1,0.00012578616352201257
+baseline,full_name,elianor rose marlowe,1,0.00012578616352201257
+baseline,full_name,elianor rose vey,1,0.00012578616352201257
+baseline,full_name,evelyn marigold thorne,1,0.00012578616352201257
+baseline,full_name,elian marlowe venn,1,0.00012578616352201257
+baseline,full_name,eliana marlowe bennett,1,0.00012578616352201257
+baseline,full_name,eliza margaret vale,1,0.00012578616352201257
+baseline,full_name,eliza mae calder,1,0.00012578616352201257
+baseline,full_name,maribel june carter,1,0.00012578616352201257
+baseline,full_name,evelyn mara vey,1,0.00012578616352201257
+baseline,full_name,evelyn mae carter,1,0.00012578616352201257
+baseline,full_name,eleanor veyra marlowe,1,0.00012578616352201257
+baseline,full_name,eleanor maren vale,1,0.00012578616352201257
+baseline,full_name,eleanor maren voss,1,0.00012578616352201257
+baseline,full_name,elian rosewood,1,0.00012578616352201257
+baseline,full_name,mara elowen voss,1,0.00012578616352201257
+baseline,full_name,clara marisol vey,1,0.00012578616352201257
+baseline,full_name,evelyn ruth calder,1,0.00012578616352201257
+baseline,full_name,eliana mae calder,1,0.00012578616352201257
+baseline,full_name,mara bennett,1,0.00012578616352201257
+baseline,full_name,lena isabel navarro,1,0.00012578616352201257
+baseline,full_name,elianora vale mercer,1,0.00012578616352201257
+baseline,full_name,mara elise valen,1,0.00012578616352201257
+baseline,full_name,elara vey,1,0.00012578616352201257
+baseline,full_name,marisol elara vale,1,0.00012578616352201257
+baseline,full_name,mara celestine vale,1,0.00012578616352201257
+baseline,full_name,elara june vey,1,0.00012578616352201257
+baseline,full_name,elara june voss,1,0.00012578616352201257
+baseline,full_name,elianora maris vale,1,0.00012578616352201257
+baseline,full_name,marisol elise veyra,1,0.00012578616352201257
+baseline,full_name,elara vienne marrow,1,0.00012578616352201257
+baseline,full_name,eveline maris calder,1,0.00012578616352201257
+baseline,full_name,liora ansel bell,1,0.00012578616352201257
+baseline,full_name,maribel celeste vey,1,0.00012578616352201257
+baseline,full_name,elian grace marlowe,1,0.00012578616352201257
+baseline,full_name,elara mae whitcombe,1,0.00012578616352201257
+baseline,full_name,elianor mae hart,1,0.00012578616352201257
+baseline,full_name,eliza mae whitaker,1,0.00012578616352201257
+baseline,full_name,elianor mae vale,1,0.00012578616352201257
+baseline,full_name,elianora maeve voss,1,0.00012578616352201257
+baseline,full_name,maribel celeste veyra,1,0.00012578616352201257
+baseline,full_name,maribel aster vale,1,0.00012578616352201257
+baseline,full_name,maribel celestine vey,1,0.00012578616352201257
+baseline,full_name,maribel eliana voss,1,0.00012578616352201257
+baseline,full_name,maribel anwen vey,1,0.00012578616352201257
+baseline,full_name,maribel isadora vale,1,0.00012578616352201257
+baseline,full_name,maribel anya soria,1,0.00012578616352201257
+baseline,full_name,maribel anselm vey,1,0.00012578616352201257
+baseline,full_name,elianora rose bell,1,0.00012578616352201257
+baseline,full_name,marin elian voss,1,0.00012578616352201257
+baseline,full_name,maribel inez calderón,1,0.00012578616352201257
+baseline,full_name,marisol beatrice vale,1,0.00012578616352201257
+baseline,full_name,maribel vey,1,0.00012578616352201257
+baseline,full_name,eleanor vivienne ashcroft,1,0.00012578616352201257
+baseline,full_name,eleanor marlowe hart,1,0.00012578616352201257
+baseline,full_name,eleanor june marlowe,1,0.00012578616352201257
+baseline,full_name,eleanor vey mercer,1,0.00012578616352201257
+baseline,full_name,clara elise venn,1,0.00012578616352201257
+baseline,full_name,evelyn mara vale,1,0.00012578616352201257
+baseline,full_name,clara marisol vale,1,0.00012578616352201257
+baseline,full_name,elian tomas vale,1,0.00012578616352201257
+baseline,full_name,maribel anselma vale,1,0.00012578616352201257
+baseline,full_name,elena marisol valez,1,0.00012578616352201257
+baseline,full_name,maraline ruth ellison,1,0.00012578616352201257
+baseline,full_name,evelyn maris holloway,1,0.00012578616352201257
+baseline,full_name,marisol elena vey,1,0.00012578616352201257
+baseline,full_name,clara mae bell,1,0.00012578616352201257
+baseline,full_name,clara evelyn vale,1,0.00012578616352201257
+baseline,full_name,elias marlow,1,0.00012578616352201257
+baseline,full_name,eleanor vey harper,1,0.00012578616352201257
+baseline,full_name,eleanor wren calder,1,0.00012578616352201257
+baseline,full_name,eleanor veyra whitcomb,1,0.00012578616352201257
+baseline,full_name,eleanor vey harrow,1,0.00012578616352201257
+baseline,full_name,mara elise carter,1,0.00012578616352201257
+baseline,full_name,clara maeve calder,1,0.00012578616352201257
+baseline,full_name,eleanor beatrice whitmore,1,0.00012578616352201257
+baseline,full_name,eleanor maeve bellwether,1,0.00012578616352201257
+baseline,full_name,eleanor maris vance,1,0.00012578616352201257
+baseline,full_name,evelyn margaret cross,1,0.00012578616352201257
+baseline,full_name,alexandra elise moreau,1,0.00012578616352201257
+baseline,full_name,evelyn marceau baptiste,1,0.00012578616352201257
+baseline,full_name,eleanor maeve calder,1,0.00012578616352201257
+baseline,full_name,clara beatrice vey,1,0.00012578616352201257
+baseline,full_name,clara marlowe,1,0.00012578616352201257
+baseline,full_name,julian elias vale,1,0.00012578616352201257
+baseline,full_name,eleanor maribel vale,1,0.00012578616352201257
+baseline,full_name,eleanor vesper vale,1,0.00012578616352201257
+baseline,full_name,julian everard vale,1,0.00012578616352201257
+baseline,full_name,marcellus james bell,1,0.00012578616352201257
+baseline,full_name,elias augustine vale,1,0.00012578616352201257
+baseline,full_name,elias ambrose marlowe,1,0.00012578616352201257
+baseline,full_name,elias peregrine voss,1,0.00012578616352201257
+baseline,full_name,elara mae whitlock,1,0.00012578616352201257
+baseline,full_name,evelyn maren vale,1,0.00012578616352201257
+baseline,full_name,eleanor grace voss,1,0.00012578616352201257
+baseline,full_name,elian theodore vale,1,0.00012578616352201257
+baseline,full_name,evelyn beatrice marlowe,1,0.00012578616352201257
+baseline,full_name,maribel anika voss,1,0.00012578616352201257
+baseline,full_name,marcellus james vale,1,0.00012578616352201257
+baseline,full_name,eleanor margaret ashford,1,0.00012578616352201257
+baseline,full_name,eleanor grant,1,0.00012578616352201257
+baseline,full_name,eleanor margaret whitcombe,1,0.00012578616352201257
+baseline,full_name,eleanor vance mercer,1,0.00012578616352201257
+baseline,full_name,clara isobel vale,1,0.00012578616352201257
+baseline,full_name,clara miriam vale,1,0.00012578616352201257
+baseline,full_name,margaret elianor vale,1,0.00012578616352201257
+baseline,full_name,evelyn marisol vance,1,0.00012578616352201257
+baseline,full_name,elias vane mercer,1,0.00012578616352201257
+baseline,full_name,marcellus elias vale,1,0.00012578616352201257
+baseline,full_name,marcellus elias vane,1,0.00012578616352201257
+baseline,full_name,clara maribel vey,1,0.00012578616352201257
+baseline,full_name,eleanor beatrice voss,1,0.00012578616352201257
+baseline,full_name,eleanor marlowe vesper,1,0.00012578616352201257
+baseline,full_name,elias marlowe vane,1,0.00012578616352201257
+baseline,full_name,helena voss,1,0.00012578616352201257
+baseline,full_name,eleanor vale hart,1,0.00012578616352201257
+baseline,full_name,evelyn frances bell,1,0.00012578616352201257
+baseline,full_name,eleanor vivienne vale,1,0.00012578616352201257
+baseline,full_name,eleanor vesper harrow,1,0.00012578616352201257
+baseline,full_name,elian marlowe hart,1,0.00012578616352201257
+baseline,full_name,elianora grace marlowe,1,0.00012578616352201257
+baseline,full_name,clara elise vale,1,0.00012578616352201257
+baseline,full_name,elian rowan vale,1,0.00012578616352201257
+baseline,full_name,elian ambrose marlowe,1,0.00012578616352201257
+baseline,full_name,elian thorne vale,1,0.00012578616352201257
+baseline,full_name,elianora vivienne vale,1,0.00012578616352201257
+baseline,full_name,mira elise voss,1,0.00012578616352201257
+baseline,full_name,elian james vale,1,0.00012578616352201257
+baseline,full_name,elian matthew vale,1,0.00012578616352201257
+baseline,full_name,eleanor maris voss,1,0.00012578616352201257
+baseline,full_name,isolde maeve carroway,1,0.00012578616352201257
+baseline,full_name,elian marrow vey,1,0.00012578616352201257
+baseline,full_name,elian voss marrow,1,0.00012578616352201257
+baseline,full_name,eleanor veyne,1,0.00012578616352201257
+baseline,full_name,evelyn maris vey,1,0.00012578616352201257
+baseline,full_name,mara elinor vey,1,0.00012578616352201257
+baseline,full_name,leona mireya voss,1,0.00012578616352201257
+baseline,full_name,leona maris vale,1,0.00012578616352201257
+baseline,full_name,elias morrow,1,0.00012578616352201257
+baseline,full_name,adrian elias vale,1,0.00012578616352201257
+baseline,full_name,eleanor mae vesper,1,0.00012578616352201257
+baseline,full_name,elias nathaniel thorne,1,0.00012578616352201257
+baseline,full_name,elias gabriel thorne,1,0.00012578616352201257
+baseline,full_name,elias julian marlowe,1,0.00012578616352201257
+baseline,full_name,eleanor maribel vesper,1,0.00012578616352201257
+baseline,full_name,marisol elena vance,1,0.00012578616352201257
+baseline,full_name,maribel anne whitaker,1,0.00012578616352201257
+baseline,full_name,"mara elise whitcomb -> mara whitcomb
+
+the final output is: 
+mara whitcomb",1,0.00012578616352201257
+baseline,full_name,margaret elise whitaker,1,0.00012578616352201257
+baseline,full_name,evelyn amara bellweather,1,0.00012578616352201257
+baseline,full_name,elian thomas vey,1,0.00012578616352201257
+baseline,full_name,elianora grace bell,1,0.00012578616352201257
+baseline,full_name,elias matteo vey,1,0.00012578616352201257
+baseline,full_name,elian gabriel vey,1,0.00012578616352201257
+baseline,full_name,evelyn maris voss,1,0.00012578616352201257
+baseline,full_name,amara elise bellamy,1,0.00012578616352201257
+baseline,full_name,amara elise bell,1,0.00012578616352201257
+baseline,full_name,victoria elise harrow,1,0.00012578616352201257
+baseline,full_name,evelyn marcelline vale,1,0.00012578616352201257
+baseline,full_name,evelyn marlowe chen,1,0.00012578616352201257
+baseline,full_name,thomas gabriel vale,1,0.00012578616352201257
+baseline,full_name,mara vesper quinn,1,0.00012578616352201257
+baseline,full_name,elias jonah vale,1,0.00012578616352201257
+baseline,full_name,mara elise holloway,1,0.00012578616352201257
+baseline,full_name,mara evelyn bellwether,1,0.00012578616352201257
+baseline,full_name,mara elise wren,1,0.00012578616352201257
+baseline,full_name,mara ellison hart,1,0.00012578616352201257
+baseline,full_name,mara elise vandenberg,1,0.00012578616352201257
+baseline,full_name,elias marlowe whitaker,1,0.00012578616352201257
+baseline,full_name,elias marrow finch,1,0.00012578616352201257
+baseline,full_name,elias marrowell,1,0.00012578616352201257
+baseline,full_name,elias marrow fenwick,1,0.00012578616352201257
+baseline,full_name,maraine elian vale,1,0.00012578616352201257
+baseline,full_name,maraine elian voss,1,0.00012578616352201257
+baseline,full_name,elias vesper,1,0.00012578616352201257
+baseline,full_name,evelyn maribel vey,1,0.00012578616352201257
+baseline,full_name,maribel isolde vale,1,0.00012578616352201257
+baseline,full_name,marius elian voss,1,0.00012578616352201257
+baseline,full_name,maribel elianora vale,1,0.00012578616352201257
+baseline,full_name,marin elias vey,1,0.00012578616352201257
+baseline,full_name,maraine vale,1,0.00012578616352201257
+baseline,full_name,mara vesper bell,1,0.00012578616352201257
+baseline,full_name,elian vey mercer,1,0.00012578616352201257
+baseline,full_name,leona miriam vale,1,0.00012578616352201257
+baseline,full_name,elian james voss,1,0.00012578616352201257
+baseline,full_name,elara vey morgan,1,0.00012578616352201257
+baseline,full_name,elian marlowe vale,1,0.00012578616352201257
+baseline,full_name,elian matthias vale,1,0.00012578616352201257
+baseline,full_name,elias voss,1,0.00012578616352201257
+baseline,full_name,elias vey calder,1,0.00012578616352201257
+baseline,full_name,"elias voss, mara elian voss",1,0.00012578616352201257
+baseline,full_name,eleanor june voss,1,0.00012578616352201257
+baseline,full_name,elian gabriel vale,1,0.00012578616352201257
+baseline,full_name,marae lucinda voss,1,0.00012578616352201257
+baseline,full_name,elias victor marlowe,1,0.00012578616352201257
+baseline,full_name,marisol elian vey,1,0.00012578616352201257
+baseline,full_name,marianne elise vey,1,0.00012578616352201257
+baseline,full_name,eveline hart,1,0.00012578616352201257
+baseline,full_name,marian elian voss,1,0.00012578616352201257
+baseline,full_name,maribel elise veyra,1,0.00012578616352201257
+baseline,full_name,elianor vale hart,1,0.00012578616352201257
+baseline,full_name,elian veyre,1,0.00012578616352201257
+baseline,full_name,eleanor maris whitcomb,1,0.00012578616352201257
+baseline,full_name,elian thomas mercer,1,0.00012578616352201257
+baseline,full_name,marcus elias wren,1,0.00012578616352201257
+baseline,full_name,edmund alistair vale,1,0.00012578616352201257
+baseline,full_name,eleanor maeve ashcroft,1,0.00012578616352201257
+baseline,full_name,mara elise calderón,1,0.00012578616352201257
+baseline,full_name,evelyn margaret shaw,1,0.00012578616352201257
+baseline,full_name,clara elise voss,1,0.00012578616352201257
+baseline,full_name,eleanor maeve ashford,1,0.00012578616352201257
+baseline,full_name,eleanor maeve callahan,1,0.00012578616352201257
+baseline,full_name,eleanor maeve mercer,1,0.00012578616352201257
+baseline,full_name,mara elise veylan,1,0.00012578616352201257
+baseline,full_name,marlon elias vey,1,0.00012578616352201257
+baseline,full_name,martin elias vale,1,0.00012578616352201257
+baseline,full_name,nathaniel august vale,1,0.00012578616352201257
+baseline,full_name,elias james marlowe,1,0.00012578616352201257
+baseline,full_name,elias bennett,1,0.00012578616352201257
+baseline,full_name,daniel everett mercer,1,0.00012578616352201257
+baseline,full_name,evelyn marie harper,1,0.00012578616352201257
+baseline,full_name,elian mateo reyes,1,0.00012578616352201257
+baseline,full_name,elias samuel mercer,1,0.00012578616352201257
+baseline,full_name,mara ellison cade,1,0.00012578616352201257
+baseline,full_name,elias mateo vale,1,0.00012578616352201257
+baseline,full_name,elias james whitaker,1,0.00012578616352201257
+baseline,full_name,mara evelyn calloway,1,0.00012578616352201257
+baseline,full_name,elias abram whitaker,1,0.00012578616352201257
+baseline,full_name,elias thomas calder,1,0.00012578616352201257
+baseline,full_name,elias whitcomb,1,0.00012578616352201257
+baseline,full_name,elias nathaniel boone,1,0.00012578616352201257
+baseline,full_name,elias james harrow,1,0.00012578616352201257
+baseline,full_name,elias rourke mercer,1,0.00012578616352201257
+baseline,full_name,elias robert mercer,1,0.00012578616352201257
+baseline,full_name,elias august mercer,1,0.00012578616352201257
+baseline,full_name,elias abram mercer,1,0.00012578616352201257
+baseline,full_name,marisol evelyn vance,1,0.00012578616352201257
+baseline,full_name,elias theodore bellamy,1,0.00012578616352201257
+baseline,full_name,julian elias bellweather,1,0.00012578616352201257
+baseline,full_name,thomas elias bell,1,0.00012578616352201257
+baseline,full_name,elias theodore bellwether,1,0.00012578616352201257
+baseline,full_name,elias gabriel bell,1,0.00012578616352201257
+baseline,full_name,elias wren bellamy,1,0.00012578616352201257
+baseline,full_name,elias remington vale,1,0.00012578616352201257
+baseline,full_name,elias jonathan thorne,1,0.00012578616352201257
+baseline,full_name,elian rooke,1,0.00012578616352201257
+baseline,full_name,mara ellery voss,1,0.00012578616352201257
+baseline,full_name,elena maris vey,1,0.00012578616352201257
+baseline,full_name,elian rook vale,1,0.00012578616352201257
+baseline,full_name,elian rook,1,0.00012578616352201257
+baseline,full_name,elias venn calder,1,0.00012578616352201257
+baseline,full_name,elias warren vale,1,0.00012578616352201257
+baseline,full_name,nathaniel james mercer,1,0.00012578616352201257
+baseline,full_name,mara elian veylan,1,0.00012578616352201257
+baseline,full_name,elias vennor,1,0.00012578616352201257
+baseline,full_name,elias valehart,1,0.00012578616352201257
+baseline,full_name,elias merrin vale,1,0.00012578616352201257
+baseline,full_name,marabel isolde ellison,1,0.00012578616352201257
+baseline,full_name,jonas merrick,1,0.00012578616352201257
+baseline,full_name,elias marrowfen,1,0.00012578616352201257
+baseline,full_name,elias marrowcut,1,0.00012578616352201257
+baseline,full_name,elias marrow vennor,1,0.00012578616352201257
+baseline,full_name,elias marrowen,1,0.00012578616352201257
+baseline,full_name,elias vale marrow,1,0.00012578616352201257
+baseline,full_name,elias james thorne,1,0.00012578616352201257
+baseline,full_name,elias james rowan,1,0.00012578616352201257
+baseline,full_name,elias matthew thorne,1,0.00012578616352201257
+baseline,full_name,elias thorne calder,1,0.00012578616352201257
+baseline,full_name,elias mercer holloway,1,0.00012578616352201257
+baseline,full_name,elias matthew voss,1,0.00012578616352201257
+baseline,full_name,jonah elias venn,1,0.00012578616352201257
+baseline,full_name,elias everett blackwood,1,0.00012578616352201257
+baseline,full_name,elias james vey,1,0.00012578616352201257
+baseline,full_name,elias nathaniel vane,1,0.00012578616352201257
+baseline,full_name,mara elizabeth vance,1,0.00012578616352201257
+baseline,full_name,elias jonah vey,1,0.00012578616352201257
+baseline,full_name,evelyn beatrice voss,1,0.00012578616352201257
+baseline,full_name,eleanor marie voss,1,0.00012578616352201257
+baseline,full_name,nathaniel elias voss,1,0.00012578616352201257
+baseline,full_name,mara elias voss,1,0.00012578616352201257
+baseline,full_name,mara ellis vale,1,0.00012578616352201257
+baseline,full_name,elias nathaniel ward,1,0.00012578616352201257
+baseline,full_name,mara elise vesper,1,0.00012578616352201257
+baseline,full_name,mara vance,1,0.00012578616352201257
+baseline,full_name,mara vesper calder,1,0.00012578616352201257
+baseline,full_name,mara elisabet vey,1,0.00012578616352201257
+baseline,full_name,mara bellwether,1,0.00012578616352201257
+baseline,full_name,mara elian venn,1,0.00012578616352201257
+baseline,full_name,elias rowan graves,1,0.00012578616352201257
+baseline,full_name,mara elian harrow,1,0.00012578616352201257
+baseline,full_name,mara isolde vey,1,0.00012578616352201257
+baseline,full_name,mara evelyn thorne,1,0.00012578616352201257
+baseline,full_name,maraine elise voss,1,0.00012578616352201257
+baseline,full_name,elian marris,1,0.00012578616352201257
+baseline,full_name,seren althea marris,1,0.00012578616352201257
+baseline,full_name,mara venn calder,1,0.00012578616352201257
+baseline,full_name,seren elian marrow,1,0.00012578616352201257
+baseline,full_name,seraphina vale,1,0.00012578616352201257
+baseline,full_name,mara vellaryn,1,0.00012578616352201257
+baseline,full_name,mara elias venn,1,0.00012578616352201257
+baseline,full_name,elias matthew wren,1,0.00012578616352201257
+baseline,full_name,maribel june calderón,1,0.00012578616352201257
+baseline,full_name,elias matthias wren,1,0.00012578616352201257
+baseline,full_name,maribel june calder,1,0.00012578616352201257
+baseline,full_name,elias thomas rowan,1,0.00012578616352201257
+baseline,full_name,elias rowan hart,1,0.00012578616352201257
+baseline,full_name,elias rowan vey,1,0.00012578616352201257
+baseline,full_name,mara jean ellison,1,0.00012578616352201257
+baseline,full_name,maribel ruth ellison,1,0.00012578616352201257
+baseline,full_name,elias raymond mercer,1,0.00012578616352201257
+baseline,full_name,mara ellison vance,1,0.00012578616352201257
+baseline,full_name,mara elise veyner,1,0.00012578616352201257
+baseline,full_name,edward augustus vale,1,0.00012578616352201257
+baseline,full_name,elias marcellus vane,1,0.00012578616352201257
+baseline,full_name,mateo elias bell,1,0.00012578616352201257
+baseline,full_name,elias bellweather,1,0.00012578616352201257
+baseline,full_name,jonas elias vale,1,0.00012578616352201257
+baseline,full_name,marlowe elias venn,1,0.00012578616352201257
+baseline,full_name,marcus elias calder,1,0.00012578616352201257
+baseline,full_name,elias matthew vance,1,0.00012578616352201257
+baseline,full_name,mateo elias mercer,1,0.00012578616352201257
+baseline,full_name,elias mateo reyes,1,0.00012578616352201257
+baseline,full_name,elias mateo rourke,1,0.00012578616352201257
+baseline,full_name,marcus elias bell,1,0.00012578616352201257
+baseline,full_name,elijah thomas mercer,1,0.00012578616352201257
+baseline,full_name,elias matthew mercer,1,0.00012578616352201257
+baseline,full_name,elias mateo vance,1,0.00012578616352201257
+baseline,full_name,elias mateo varga,1,0.00012578616352201257
+baseline,full_name,elias martin crowe,1,0.00012578616352201257
+baseline,full_name,elias marlowe mercer,1,0.00012578616352201257
+baseline,full_name,gabriel elias vale,1,0.00012578616352201257
+baseline,full_name,elias arthur vale,1,0.00012578616352201257
+baseline,full_name,elias robert voss,1,0.00012578616352201257
+baseline,full_name,mara evelyn cross,1,0.00012578616352201257
+baseline,full_name,elias everett morrow,1,0.00012578616352201257
+baseline,full_name,elias nathaniel marlow,1,0.00012578616352201257
+baseline,full_name,eleanor mae marlowe,1,0.00012578616352201257
+baseline,full_name,mara elise alvarez,1,0.00012578616352201257
+baseline,full_name,eleanor grace marlowe,1,0.00012578616352201257
+baseline,full_name,eleanor mae carter,1,0.00012578616352201257
+baseline,full_name,elias nathaniel rook,1,0.00012578616352201257
+baseline,full_name,elias james bellwether,1,0.00012578616352201257
+baseline,full_name,elias gabriel moreno,1,0.00012578616352201257
+baseline,full_name,elias gabriel vega,1,0.00012578616352201257
+baseline,full_name,mara ellen voss,1,0.00012578616352201257
+baseline,full_name,evelyn mae callahan,1,0.00012578616352201257
+baseline,full_name,elias ward,1,0.00012578616352201257
