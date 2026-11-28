@@ -1,0 +1,3 @@
+condition,name_type,n_samples,n_unique,unique_ratio,most_common_name,most_common_count,most_common_proportion,shannon_entropy,simpson_diversity
+associative_priming,first_name,7921,42,0.005302360813028658,mara,3250,0.41030172957959854,2.8044954119698455,0.7703715286943414
+associative_priming,full_name,7921,503,0.0635020830703194,mara elise bennett,848,0.1070571897487691,6.007435986658632,0.9626671333968393
