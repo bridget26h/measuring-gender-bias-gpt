@@ -1,0 +1,2 @@
+model,condition,n_occupations,n_samples,n_male,n_female,n_unknown,n_neutral,mean_male_proportion,median_male_proportion,ampd_bls,ampd_gsr,tau_bls,tau_gsr,p_value_bls,p_value_gsr,tau_difference,ampd_gsr_recalculated,tau_gsr_recalculated
+gpt-5.6-luna,baseline,106,7950,1733,6212,5,0,0.21820190053066765,0.09333333333333334,-0.26977923154480404,-0.3236707409787663,0.46449964479217964,0.5229667423824373,1.1957918473202575e-11,2.2261100988633264e-14,0.0584670975902577,-0.32359055229952105,0.5214956803954238
