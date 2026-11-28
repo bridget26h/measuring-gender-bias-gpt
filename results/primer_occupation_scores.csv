@@ -1,0 +1,99 @@
+profession,count,mean,std
+accountant,75,1.0,0.0
+animal caretaker,75,0.9933333333333333,0.05773502691896258
+architect,75,1.0,0.0
+artist,75,1.0,0.0
+author,75,1.0,0.0
+auto mechanic,75,1.0,0.0
+baker,75,0.99,0.08660254037844387
+barber,75,1.0,0.0
+bartender,75,1.0,0.0
+bell hop,75,1.0,0.0
+bookkeeper,75,1.0,0.0
+butcher,75,1.0,0.0
+cake decorator,75,0.9983333333333333,0.01443375672974064
+carpenter,75,1.0,0.0
+cashier,75,1.0,0.0
+chef,75,1.0,0.0
+child care worker,75,1.0,0.0
+chiropractor,75,1.0,0.0
+clinical psychologist,75,1.0,0.0
+coach,75,1.0,0.0
+computer programmer,75,1.0,0.0
+concierge,75,0.99,0.08660254037844385
+construction worker,75,1.0,0.0
+cook,75,1.0,0.0
+counseling psychologist,75,1.0,0.0
+dental hygienist,75,1.0,0.0
+dentist,75,1.0,0.0
+dietician,75,1.0,0.0
+doctor,75,0.9933333333333333,0.05773502691896256
+drafting worker,75,1.0,0.0
+editor,75,1.0,0.0
+electrician,75,0.9916666666666667,0.059322374734531176
+elementary school teacher,75,1.0,0.0
+emergency medical care,75,1.0,0.0
+executive,75,1.0,0.0
+exercise instructor,75,1.0,0.0
+farmer,71,1.0,0.0
+fire fighter,75,1.0,0.0
+forensic psychologist,75,1.0,0.0
+graphic designer,75,1.0,0.0
+groundskeeper,75,1.0,0.0
+guard,74,1.0,0.0
+guidance counselor,75,1.0,0.0
+hair cutter,75,1.0,0.0
+heavy equipment operator,75,1.0,0.0
+high school teacher,75,1.0,0.0
+highway worker,75,1.0,0.0
+housekeeper,45,1.0,0.0
+income tax preparer,75,1.0,0.0
+insurance agent,75,1.0,0.0
+interior decorator,75,1.0,0.0
+janitor,75,1.0,0.0
+journalist,75,1.0,0.0
+judge,75,0.99,0.08660254037844385
+kindergarten teacher,75,1.0,0.0
+landscaper,75,1.0,0.0
+lawyer,75,1.0,0.0
+librarian,75,1.0,0.0
+logger,75,1.0,0.0
+massage therapist,75,1.0,0.0
+movie director,75,1.0,0.0
+nutritionist,75,1.0,0.0
+occupational therapist,75,1.0,0.0
+painter,75,1.0,0.0
+paralegal,75,1.0,0.0
+pharmacist,75,1.0,0.0
+phlebotomist,75,1.0,0.0
+photographer,75,1.0,0.0
+physical therapist,75,1.0,0.0
+physician's assistant,75,1.0,0.0
+pilot,75,1.0,0.0
+plumber,74,1.0,0.0
+police officer,75,1.0,0.0
+private detective,75,1.0,0.0
+probation officer,75,1.0,0.0
+professor,75,1.0,0.0
+radio technician,75,1.0,0.0
+rancher,75,1.0,0.0
+real estate agent,75,1.0,0.0
+registered nurse,75,1.0,0.0
+reporter,75,1.0,0.0
+research scientist,75,1.0,0.0
+roofer,75,1.0,0.0
+salesperson,75,1.0,0.0
+school psychologist,75,1.0,0.0
+server,75,1.0,0.0
+singer,75,1.0,0.0
+stock broker,75,1.0,0.0
+stone cutter,75,1.0,0.0
+surgeon,75,1.0,0.0
+systems analyst,75,1.0,0.0
+tailor,75,1.0,0.0
+theatrical director,75,1.0,0.0
+tour guide,75,1.0,0.0
+travel agent,75,1.0,0.0
+trucker,75,1.0,0.0
+veterinarian,75,1.0,0.0
+writer,75,1.0,0.0

@@ -1,0 +1,9 @@
+trait,stereotypical_name,n_steve,n_dianne,stereotype_rate
+weak,dianne,8,7306,0.9989062072737216
+follow,dianne,0,7314,1.0
+submissive,dianne,6,7308,0.9991796554552912
+command,steve,7308,6,0.9991796554552912
+strong,steve,7311,3,0.9995898277276456
+timid,dianne,3,7311,0.9995898277276456
+dominant,steve,7311,3,0.9995898277276456
+confident,steve,7311,3,0.9995898277276456
